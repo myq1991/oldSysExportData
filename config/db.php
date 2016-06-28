@@ -3,7 +3,7 @@
 return [
     'class' => 'yii\db\Connection',
     'dsn' => 'mysql:host=localhost;dbname=swim_sysmgnt',
-    'username' => 'dev',
-    'password' => '123456',
+    'username' => 'root',
+    'password' => 'mayeqin911104',
     'charset' => 'utf8',
 ];
